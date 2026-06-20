@@ -1,6 +1,11 @@
 [buildPlans.afio]
 family = "afio"
 spacing = "normal"
+
+[buildPlans.IosevkaCustom]
+family = "IosevkaCustom"
+spacing = "normal"
+
 serifs = "sans"
 noCvSs = true
 exportGlyphNames = false
