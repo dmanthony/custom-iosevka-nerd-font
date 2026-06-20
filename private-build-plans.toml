@@ -1,5 +1,5 @@
 [buildPlans.afio]
-family = "Iosevka Custom"
+family = "afio"
 spacing = "normal"
 serifs = "sans"
 noCvSs = true
